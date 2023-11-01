@@ -1,0 +1,7 @@
+.error-form {
+    box-shadow: 0 0 5px red;
+}
+
+.success-form {
+    box-shadow: 0 0 10px rgb(69, 236, 152);
+}
